@@ -27,6 +27,7 @@ function App() {
                   <User />
                 </ProtectedRoute>
               }
+              
             />
             <Route path="foto/:id" element={<Photo/>}/>
             <Route path="perfil/:user" element={<UserProfile/>}/>
