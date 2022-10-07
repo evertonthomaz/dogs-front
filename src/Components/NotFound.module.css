@@ -1,0 +1,13 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper p {
+    width: 33rem;
+    margin: auto;
+}
+
+.wrapper svg {
+    margin: auto;
+}
