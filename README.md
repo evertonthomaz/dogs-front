@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Dogsgram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created through the course [React Completo by Origamid](https://www.origamid.com).
+
+## Deployment
+
+It is published on [Azure](https://dogsgram.azurewebsites.net) using Docker, App Service, Container Registry and CI/CD DevOps.
 
 ## Available Scripts
 
@@ -13,11 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
