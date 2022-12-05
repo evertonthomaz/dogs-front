@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className={styles.footer}>
       <Dogs />
-      <p>Dogs. Alguns direitos resevados Teste Azure</p>
+      <p>Dogs. Alguns direitos resevados</p>
     </div>
   );
 };
